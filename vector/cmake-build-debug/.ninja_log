@@ -1,0 +1,9 @@
+# ninja log v5
+12	1896	1713366905772270966	CMakeFiles/vector.dir/template_test.cpp.o	7b8db384975a548
+11	9825	1713366068190573436	CMakeFiles/vector.dir/utest_3.cpp.o	2fb4b8cda16cdc96
+0	1722	1711493699295063059	CMakeFiles/vector.dir/types_test.cpp.o	be60692dd046766f
+1	430	1713366777046161136	build.ninja	963eceb75680cb70
+9	7278	1713366098645663040	vector	b9a5581851c45cdb
+1	7300	1711492901994529477	CMakeFiles/vector.dir/utest.cpp.o	87c1ca0d8328aa65
+9	1941	1711453106679127393	CMakeFiles/vector.dir/main.cpp.o	10568c716afac6e6
+9	6775	1711493590788966310	CMakeFiles/vector.dir/utest_2.cpp.o	a57526cedbea4984
