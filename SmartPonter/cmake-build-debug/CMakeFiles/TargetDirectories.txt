@@ -1,0 +1,3 @@
+/Users/asko/Desktop/TestProject/SmartPonter/cmake-build-debug/CMakeFiles/SmartPonter.dir
+/Users/asko/Desktop/TestProject/SmartPonter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/asko/Desktop/TestProject/SmartPonter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

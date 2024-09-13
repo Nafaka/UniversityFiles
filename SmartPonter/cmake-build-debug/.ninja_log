@@ -1,0 +1,9 @@
+# ninja log v5
+870	996	1715603556720810754	CMakeFiles/SmartPonter.dir/monster.cpp.o	2a09e7c20675e8de
+764	880	1715603556603582341	CMakeFiles/SmartPonter.dir/hero.cpp.o	698ce39930a45944
+761	870	1715603556595364385	CMakeFiles/SmartPonter.dir/hero_info.cpp.o	7459c3b67c1252d
+23	763	1715603556473430932	CMakeFiles/SmartPonter.dir/campaign.cpp.o	dbe6033b8f203972
+18	760	1715603556473431068	CMakeFiles/SmartPonter.dir/player.cpp.o	fafe6f14d367e23e
+1	360	1715615902328299619	build.ninja	5e6043db4bd2c37b
+0	2278	1715615904629068651	CMakeFiles/SmartPonter.dir/main.cpp.o	a0c27a00e9e9709f
+2285	2426	1715615904784684393	SmartPonter	b8638d2acff04971
